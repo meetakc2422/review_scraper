@@ -2,4 +2,4 @@
 
 
 link for this app is :
-https://ev-reviewscraper.herokuapp.com/review
+https://scraperviews.herokuapp.com/
