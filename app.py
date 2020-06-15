@@ -43,7 +43,7 @@ def index():
 
             for info in cmmnt:
                     try:
-                        name = info.div.div.find.All('p', {"class": "_3LYOAd _3sxSiS"})[0].text
+                        name = info.div.div.find_all('p', {"class": "_3LYOAd _3sxSiS"})[0].text
                     except:
                         name = "Anonymous"
                     try:
